@@ -1,0 +1,14 @@
+layout_spectrum: 0.15369652770459652
+typography_spectrum: 0.07389569072984159
+color:
+  brandStrength: 0.15379708935506642
+  lightness: 0.9141634309198707
+  saturation: 0.23987747519277036
+  rhythmicContrast: 0.07449885085225105
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: am-ran.de
